@@ -1,6 +1,6 @@
 # 🎯 Fokus - Temporizador Pomodoro
 
-![Capa do Projeto](./imagens/logo.png) ## 📝 Sobre o Projeto
+![Capa do Projeto](./imagens/logo.png) 
 O **Fokus** é uma aplicação de gerenciamento de tempo baseada na técnica Pomodoro. Desenvolvido durante o curso de JavaScript da **Alura**, o projeto foca na criação de uma interface dinâmica onde o usuário pode alternar entre períodos de concentração extrema e descansos recuperadores.
 
 O objetivo principal foi aplicar conceitos avançados de manipulação do **DOM (Document Object Model)** para criar uma experiência de usuário fluida e interativa.
